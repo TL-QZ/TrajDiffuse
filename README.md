@@ -2,6 +2,15 @@
 Official Repository for [TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction](https://arxiv.org/pdf/2410.10804)
 > Qingze (Tony) Liu, Danrui Li, Samuel S. Sohn, Sejong Yoon, Mubbasir Kapadia, and Vladimir Pavlovic
 
+## Overview
+
+<table>
+  <tr>
+    <td><img src="assets/TrajDiffuse_fig.png" alt="Overview Figure 1" width="100%"/></td>
+    <td><img src="assets/TrajDiffuse_fig2.png" alt="Overview Figure 2" width="100%"/></td>
+  </tr>
+</table>
+
 ## Data Preparation
 
 **NOTE:** To use our pre-processed dataset, please download from the mentioned link below or go to release of the github repo.
