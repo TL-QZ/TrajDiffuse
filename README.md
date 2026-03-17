@@ -1,5 +1,6 @@
 # TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction
 Official Repository for [TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction](https://arxiv.org/pdf/2410.10804)
+
 Published at 2024 International Conference on Pattern Recognition (ICPR)
 > Qingze (Tony) Liu, Danrui Li, Samuel S. Sohn, Sejong Yoon, Mubbasir Kapadia, and Vladimir Pavlovic
 
